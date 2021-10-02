@@ -1,0 +1,14 @@
+exercises:
+    '01_Przygotowanie projektu': { max_points: 0, disabled: true }
+    '02_Szablon bazowy': { max_points: 0, disabled: true }
+    '03_Model sali': { max_points: 0, disabled: true }
+    '04_Widok dodawania sali': { max_points: 0, disabled: true }
+    '05_Lista wszystkich sal': { max_points: 0, disabled: true }
+    '06_Usuwanie sali': { max_points: 0, disabled: true }
+    '07_Modyfikacja sali': { max_points: 0, disabled: true }
+    '08_Model rezerwacji': { max_points: 0, disabled: true }
+    '09_Widok rezerwacji': { max_points: 0, disabled: true }
+    '10_Szczegółowy widok sali': { max_points: 0, disabled: true }
+    '11_Dostępność sali': { max_points: 0, disabled: true }
+    '12_Aktualizacja widoku rezerwacji': { max_points: 0, disabled: true }
+    '13_Wyszukiwanie sali - dla chętnych': { max_points: 0, disabled: true }
